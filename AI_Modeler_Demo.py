@@ -1,1 +1,1 @@
-Hello World
+Checking the operation of 'Publish Model' in AI Modeler.
